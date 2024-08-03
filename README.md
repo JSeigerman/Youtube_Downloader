@@ -1,6 +1,6 @@
 # YouTube-Downloader
 a program to download MP4 and MP3 files from YouTube
-##Important information
+## Important information
 at the moment this only works on windows, I plan on attempting to make a mac and linux version soon. For MP3 dowloads you need to install FFMPEG and make it a path variable, the guide is down below.
 ## Getting Started
 go to this site: [ffmpeg download](https://ffmpeg.org/download.html) and download ffmpeg. Then open the terminal and type the following:
